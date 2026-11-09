@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1120" font-family="Noto Sans SC, 'Microsoft YaHei', sans-serif" role="img" width="1000" height="1120"><title>P1 AI 培训双轨四层进阶架构图</title><rect x="0" y="0" width="1000" height="1120" rx="0" fill="#FBF8F4"/>
+<text x="40" y="52" font-size="26" font-weight="500" fill="#2D326B" text-anchor="start">P1 · AI 培训｜L1–L4 双轨四层进阶架构</text>
+<text x="40" y="78" font-size="14" font-weight="400" fill="#6E7181" text-anchor="start">成人培训 ＋ 青少年培训双轨　｜　共用 L1–L4 框架与统一层名</text>
+<a href="https://sparklight-ai.com/"><text x="960" y="52" font-size="13" font-weight="400" fill="#6E7181" text-anchor="end">V1.3 · 2026-11-09 · sparklight-ai.com</text></a>
+<line x1="40" y1="90" x2="960" y2="90" stroke="#D9DBEA" stroke-width="1"/>
+<rect x="40" y="100" width="920" height="40" rx="10" fill="#2D326B" stroke="#2D326B" stroke-width="1"/>
+<text x="60" y="126" font-size="17" font-weight="500" fill="#FFFFFF" text-anchor="start">轨道 A · 成人培训｜L1–L4（层名固定 V2，课程条目逐字保留）</text>
+<rect x="40" y="150" width="920" height="88" rx="12" fill="#FFF0EC" stroke="#FF6B5B" stroke-width="1"/>
+<rect x="40" y="150" width="170" height="88" rx="12" fill="#C9473A"/>
+<text x="56" y="178" font-size="20" font-weight="500" fill="#FFFFFF" text-anchor="start">L4</text>
+<text x="56" y="202" font-size="14" font-weight="500" fill="#FFFFFF" text-anchor="start">生态共创层</text>
+<text x="56" y="224" font-size="11" font-weight="400" fill="#FFD9D2" text-anchor="start">怎么管 · 特定层</text>
+<text x="226" y="176" font-size="12" font-weight="500" fill="#C9473A" text-anchor="start">本层课程</text>
+<text x="226" y="204" font-size="15" font-weight="500" fill="#1E2238" text-anchor="start">高管战略研修 · 企业内训定制 · 数字员工共建 · 年度赋能服务</text>
+<text x="226" y="228" font-size="11" font-weight="400" fill="#6E7181" text-anchor="start">层内目标：B 端合作　｜　知识：特定层（组织私有场景，一企一策）</text>
+<rect x="40" y="250" width="920" height="88" rx="12" fill="#F5EFF6" stroke="#CECBF6" stroke-width="1"/>
+<rect x="40" y="250" width="170" height="88" rx="12" fill="#2D326B"/>
+<text x="56" y="278" font-size="20" font-weight="500" fill="#FFFFFF" text-anchor="start">L3</text>
+<text x="56" y="302" font-size="14" font-weight="500" fill="#FFFFFF" text-anchor="start">科创素养层</text>
+<text x="56" y="324" font-size="11" font-weight="400" fill="#FFD9D2" text-anchor="start">怎么造 · 专项层</text>
+<text x="226" y="276" font-size="12" font-weight="500" fill="#2D326B" text-anchor="start">本层课程</text>
+<text x="226" y="304" font-size="15" font-weight="500" fill="#1E2238" text-anchor="start">AI 智能体应用师 · AIGC 应用工程师 · 人工智能训练师</text>
+<text x="226" y="328" font-size="11" font-weight="400" fill="#6E7181" text-anchor="start">层内目标：持证上岗　｜　知识：专项层（绑定技术栈与认证方向）</text>
+<rect x="40" y="350" width="920" height="88" rx="12" fill="#EFF0FA" stroke="#CECBF6" stroke-width="1"/>
+<rect x="40" y="350" width="170" height="88" rx="12" fill="#2D326B"/>
+<text x="56" y="378" font-size="20" font-weight="500" fill="#FFFFFF" text-anchor="start">L2</text>
+<text x="56" y="402" font-size="14" font-weight="500" fill="#FFFFFF" text-anchor="start">能力跃迁层</text>
+<text x="56" y="424" font-size="11" font-weight="400" fill="#FFD9D2" text-anchor="start">怎么用 · 专业层</text>
+<text x="226" y="376" font-size="12" font-weight="500" fill="#2D326B" text-anchor="start">本层课程</text>
+<text x="226" y="404" font-size="15" font-weight="500" fill="#1E2238" text-anchor="start">AI 办公实战 · AIGC 创作 · AI + 垂直职能微课 · 综合技能班</text>
+<text x="226" y="428" font-size="11" font-weight="400" fill="#6E7181" text-anchor="start">层内目标：职场竞争力　｜　知识：专业层（绑定职业角色）</text>
+<rect x="40" y="450" width="920" height="88" rx="12" fill="#F1EFE8" stroke="#D3D1C7" stroke-width="1"/>
+<rect x="40" y="450" width="170" height="88" rx="12" fill="#2D326B"/>
+<text x="56" y="478" font-size="20" font-weight="500" fill="#FFFFFF" text-anchor="start">L1</text>
+<text x="56" y="502" font-size="14" font-weight="500" fill="#FFFFFF" text-anchor="start">公益体验层</text>
+<text x="56" y="524" font-size="11" font-weight="400" fill="#FFD9D2" text-anchor="start">是什么 · 通用层</text>
+<text x="226" y="476" font-size="12" font-weight="500" fill="#2D326B" text-anchor="start">本层课程</text>
+<text x="226" y="504" font-size="15" font-weight="500" fill="#1E2238" text-anchor="start">AI 认知课 · 研学体验 · 公益讲座 · AI 工具速成，零门槛覆盖全民</text>
+<text x="226" y="528" font-size="11" font-weight="400" fill="#6E7181" text-anchor="start">层内目标：全民普及　｜　知识：通用层（跨行业可迁移）</text>
+<rect x="40" y="556" width="920" height="40" rx="10" fill="#FFF0EC" stroke="#FF6B5B" stroke-width="1"/>
+<text x="60" y="582" font-size="17" font-weight="500" fill="#C9473A" text-anchor="start">轨道 B · 青少年培训｜四层进阶（含 L4 定制共创）</text>
+<rect x="40" y="606" width="920" height="78" rx="12" fill="#FFF0EC" stroke="#FF6B5B" stroke-width="1"/>
+<rect x="40" y="606" width="170" height="78" rx="12" fill="#C9473A"/>
+<text x="56" y="632" font-size="20" font-weight="500" fill="#FFFFFF" text-anchor="start">L4</text>
+<text x="56" y="654" font-size="14" font-weight="500" fill="#FFFFFF" text-anchor="start">生态共创层</text>
+<text x="56" y="674" font-size="11" font-weight="400" fill="#FFD9D2" text-anchor="start">怎么管 · 特定层</text>
+<text x="226" y="630" font-size="12" font-weight="500" fill="#C9473A" text-anchor="start">本层课程</text>
+<text x="226" y="654" font-size="16" font-weight="500" fill="#1E2238" text-anchor="start">个人定制 · 学校定制 · 社区定制</text>
+<text x="226" y="676" font-size="11" font-weight="400" fill="#6E7181" text-anchor="start">课程方向：定制共创　｜　交付形态：一客一案／校本项目／社区共建</text>
+<text x="944" y="630" font-size="12" font-weight="500" fill="#C9473A" text-anchor="end">本次新增</text>
+<rect x="40" y="694" width="920" height="78" rx="12" fill="#F5EFF6" stroke="#CECBF6" stroke-width="1"/>
+<rect x="40" y="694" width="170" height="78" rx="12" fill="#2D326B"/>
+<text x="56" y="720" font-size="20" font-weight="500" fill="#FFFFFF" text-anchor="start">L3</text>
+<text x="56" y="742" font-size="14" font-weight="500" fill="#FFFFFF" text-anchor="start">科创素养层</text>
+<text x="56" y="762" font-size="11" font-weight="400" fill="#FFD9D2" text-anchor="start">怎么造 · 专项层</text>
+<text x="226" y="718" font-size="12" font-weight="500" fill="#2D326B" text-anchor="start">本层课程</text>
+<text x="226" y="742" font-size="16" font-weight="500" fill="#1E2238" text-anchor="start">AI 科创集训营 · AI 竞赛集训营</text>
+<text x="226" y="764" font-size="11" font-weight="400" fill="#6E7181" text-anchor="start">课程方向：科创大赛　｜　交付形态：赛事集训／项目辅导</text>
+<rect x="40" y="782" width="920" height="78" rx="12" fill="#EFF0FA" stroke="#CECBF6" stroke-width="1"/>
+<rect x="40" y="782" width="170" height="78" rx="12" fill="#2D326B"/>
+<text x="56" y="808" font-size="20" font-weight="500" fill="#FFFFFF" text-anchor="start">L2</text>
+<text x="56" y="830" font-size="14" font-weight="500" fill="#FFFFFF" text-anchor="start">能力跃迁层</text>
+<text x="56" y="850" font-size="11" font-weight="400" fill="#FFD9D2" text-anchor="start">怎么用 · 专业层</text>
+<text x="226" y="806" font-size="12" font-weight="500" fill="#2D326B" text-anchor="start">本层课程</text>
+<text x="226" y="830" font-size="16" font-weight="500" fill="#1E2238" text-anchor="start">AI 研学营 · AI 创造营</text>
+<text x="226" y="852" font-size="11" font-weight="400" fill="#6E7181" text-anchor="start">课程方向：技能提升　｜　交付形态：营期实训／走读班</text>
+<rect x="40" y="870" width="920" height="78" rx="12" fill="#F1EFE8" stroke="#D3D1C7" stroke-width="1"/>
+<rect x="40" y="870" width="170" height="78" rx="12" fill="#2D326B"/>
+<text x="56" y="896" font-size="20" font-weight="500" fill="#FFFFFF" text-anchor="start">L1</text>
+<text x="56" y="918" font-size="14" font-weight="500" fill="#FFFFFF" text-anchor="start">公益体验层</text>
+<text x="56" y="938" font-size="11" font-weight="400" fill="#FFD9D2" text-anchor="start">是什么 · 通用层</text>
+<text x="226" y="894" font-size="12" font-weight="500" fill="#2D326B" text-anchor="start">本层课程</text>
+<text x="226" y="918" font-size="16" font-weight="500" fill="#1E2238" text-anchor="start">研学体验日 · 公益讲座</text>
+<text x="226" y="940" font-size="11" font-weight="400" fill="#6E7181" text-anchor="start">课程方向：公益体验　｜　交付形态：研学体验／公益讲座</text>
+<rect x="40" y="968" width="920" height="74" rx="12" fill="#EFF0FA" stroke="#2D326B" stroke-width="1"/>
+<text x="60" y="996" font-size="17" font-weight="500" fill="#2D326B" text-anchor="start">器 · 1 个 AI 中台承接：课程工厂 · 实训沙盒 · 认证体系</text>
+<text x="60" y="1022" font-size="13" font-weight="400" fill="#6E7181" text-anchor="start">P1 是获客入口；两轨共用 L1–L4 框架与统一层名，条目与交付形态各自独立。</text>
+<text x="60" y="1070" font-size="12" font-weight="400" fill="#6E7181" text-anchor="start">青少年 L4 按项目承接，对外只列名称与交付形态；价格以官网当日公示为准。</text></svg>
